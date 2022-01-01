@@ -3,7 +3,7 @@ import random
 
 print("Welcome to the library!")
 
-books = ["Lord of the Rings", "Harry Potter", "The Secret Garden", "Pax"]
+books = ["Lord of the Rings", "Harry Potter", "The Secret Garden", "Pax"] #this is the default library, you can change it
 request = ""
 
 while True: 
